@@ -5,3 +5,4 @@
 * hw3 : OpenMP on Conjuate gradient & PageRank
 * hw4 : MPI on monte-carlo PI & Matrix Multiplication
 * hw5 : CUDA on mandelbrot
+* hw6 : OpenCL on mandelbrot
